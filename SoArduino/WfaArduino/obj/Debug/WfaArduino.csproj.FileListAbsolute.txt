@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\SoArduino\WfaArduino\bin\Debug\WfaArduino.exe.config
+C:\Users\x\source\repos\SoArduino\WfaArduino\bin\Debug\WfaArduino.exe
+C:\Users\x\source\repos\SoArduino\WfaArduino\bin\Debug\WfaArduino.pdb
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.Form1.resources
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.Properties.Resources.resources
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.csproj.GenerateResource.cache
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.exe
+C:\Users\x\source\repos\SoArduino\WfaArduino\obj\Debug\WfaArduino.pdb
